@@ -1,1 +1,3 @@
-# plovcoin-site
+# PlovCoin
+
+Скоро на plovcoin.com — мемкойн с душой, казаном и блокчейном 🔥🍚
